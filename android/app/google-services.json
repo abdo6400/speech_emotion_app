@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "570755494755",
+    "project_id": "speech-fba5a",
+    "storage_bucket": "speech-fba5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570755494755:android:385de61acd7773070ed956",
+        "android_client_info": {
+          "package_name": "com.example.emotion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570755494755-drsu0npc2g6asqc4fdmd5fqco87mjs6j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.emotion",
+            "certificate_hash": "6df7f62bc313e198171c3b9ca2f15e6b87625dfe"
+          }
+        },
+        {
+          "client_id": "570755494755-6upfhr9u2ksopcgm7g9q1udcl3vvo1d4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0v1k82UCtB5eE4-vXIRTzNfqPj2rYTAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570755494755-6upfhr9u2ksopcgm7g9q1udcl3vvo1d4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
